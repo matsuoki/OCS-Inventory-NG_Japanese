@@ -9,16 +9,15 @@ ocsreports_japanese localization
 # インストール
 ocsreposts/plugins のディレクトリで下記のファイルを作成・編集します。
  
-* language/lang_config.txt の上書き(日本語エントリの追加）
-* language/japansese の作成
-* language/japansese/japanese./txt の作成
-* language/japansese.png の作成
+* language/lang_config.txt に日本語エントリを追加
+* language/japansese/japanese.txt の作成
+* language/japansese/japanese.png の作成
 
 ocsreposts/plugins  は /usr/share/ocsinventory-reports/ocsreports/plugins/ あたりに有ります（FreeBSDの場合） 
 
 
 # 既知の問題
-mb_strtoupper がマルチバイト環境でうまく動かない（mb_strtoupper("あいうえお")=""になる）バグが有ります。
+mb_strtoupper がマルチバイト環境でうまく動かない（mb_strtoupper("あいうえお")が空文字を返す）バグが有ります。
 このバグの影響で下記の事象が発生します。
 
 * ローカライズを行ったタブの一部が表示されない
