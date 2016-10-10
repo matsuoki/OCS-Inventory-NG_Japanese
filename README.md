@@ -1,12 +1,16 @@
 ocsreports_japanese localization
 ----
-# 概要
 
-[OCS Inventory NG](http://www.ocsinventory-ng.org/en/ "OCS Inventory NG") の管理画面で日本語を使えるようにするローカライゼーションファイルでした。
-
+# Discontinued
 
 [OCS Inventory NG](http://www.ocsinventory-ng.org/en/ "OCS Inventory NG") の[masterにマージされた](https://github.com/OCSInventory-NG/OCSInventory-ocsreports/commit/b0fa015d584458a7a98087f9e8430f4987bc6d70 "commit b0fa015d584458a7a98087f9e8430f4987bc6d70")ので今後はこちらでの更新はしません。
 
+This repository will discontinued
+[Since this repository merged](https://github.com/OCSInventory-NG/OCSInventory-ocsreports/commit/b0fa015d584458a7a98087f9e8430f4987bc6d70 "commit b0fa015d584458a7a98087f9e8430f4987bc6d70") to [OCS Inventory NG](http://www.ocsinventory-ng.org/en/ "OCS Inventory NG").
+
+# 概要
+
+[OCS Inventory NG](http://www.ocsinventory-ng.org/en/ "OCS Inventory NG") の管理画面で日本語を使えるようにするローカライゼーションファイルでした。
 
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/ "")
 
