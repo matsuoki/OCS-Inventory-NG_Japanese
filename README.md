@@ -17,8 +17,7 @@ ocsreposts/plugins のディレクトリで下記のファイルを作成・編�
 * language/japansese/japanese.txt の作成
 * language/japansese/japanese.png の作成
 
-ocsreposts/plugins  は /usr/share/ocsinventory-reports/ocsreports/plugins/ あたりに有ります（FreeBSDの場合） 
-
+ocsreposts/plugins  は /usr/share/ocsinventory-reports/ocsreports/plugins/ あたりに有ります。
 
 # 既知の問題
 mb_strtoupper がマルチバイト環境でうまく動かない（mb_strtoupper("あいうえお")が空文字を返す）バグが有ります。
@@ -28,4 +27,5 @@ mb_strtoupper がマルチバイト環境でうまく動かない（mb_strtouppe
 * ソフトウェア一覧でのソフトウェアの頭文字が表示されない、
 
 [launchpad](https://launchpad.net/ocsinventory-ocsreports "launchpad.net") でも順次修正が行われていますが、対応が十分ではありません。
+
 
